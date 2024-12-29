@@ -1,11 +1,12 @@
 ---
-title: "dialectic-lab"
+title: "Dialectic Lab"
+listing: default
 ---
 
-This is Dialectic's home page
+![](images/Brand-rmd.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*`Data essays and deep-dives into pertinent issues ofEnvironment, Society, and Governance.`*
 
-```{r}
-1 + 1
-```
+### Dialectic Poster Shop
+
+![](images/clipboard-2113924575.png)

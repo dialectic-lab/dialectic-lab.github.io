@@ -1,0 +1,17 @@
+---
+title: "Seasonal Rain in India"
+---
+
+Indian Meteorological Department (IMD) provides historic data of rainfall in India. Since some of this predates the formation of modern Indian states, the geographic regions listed here are slightly different.
+
+This is a plot of annual rainfall data between the years 1901 and 2017. The darker bands indicate wetter regions. Values are in mm.
+
+Hover over the cells for more information. Blank spaces indicate data unavailability from source.
+
+::: {.flourish-embed .flourish-heatmap data-src="visualisation/17303586"}
+<script src="https://public.flourish.studio/resources/embed.js"</script>
+
+<noscript><img src="https://public.flourish.studio/visualisation/17303586/thumbnail" alt="heatmap visualization" width="100%"/></noscript>
+:::
+
+![](images/02_Rain@4x-01.jpg)
