@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dialectic-lab.github.io/index.html</loc>
-    <lastmod>2024-12-29T03:56:19.448Z</lastmod>
+    <loc>https://dialectic-lab.github.io/01_rain.html</loc>
+    <lastmod>2024-12-29T19:41:21.284Z</lastmod>
   </url>
   <url>
     <loc>https://dialectic-lab.github.io/about.html</loc>
-    <lastmod>2024-12-29T03:56:19.448Z</lastmod>
+    <lastmod>2024-12-29T19:41:21.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-lab.github.io/index.html</loc>
+    <lastmod>2024-12-29T19:41:21.460Z</lastmod>
   </url>
 </urlset>

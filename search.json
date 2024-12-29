@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "dialectic-lab",
+    "objectID": "01_rain.html",
+    "href": "01_rain.html",
+    "title": "Seasonal Rain in India",
     "section": "",
-    "text": "This is Dialectic’s home page\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Indian Meteorological Department (IMD) provides historic data of rainfall in India. Since some of this predates the formation of modern Indian states, the geographic regions listed here are slightly different.\nThis is a plot of annual rainfall data between the years 1901 and 2017. The darker bands indicate wetter regions. Values are in mm.\nHover over the cells for more information. Blank spaces indicate data unavailability from source.\n\n&lt;script src=“https://public.flourish.studio/resources/embed.js”"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dialectic Lab",
+    "section": "",
+    "text": "Data essays and deep-dives into pertinent issues ofEnvironment, Society, and Governance.\n\nDialectic Poster Shop\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeasonal Rain in India\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
