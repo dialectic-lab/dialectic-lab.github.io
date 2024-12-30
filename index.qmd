@@ -1,12 +1,17 @@
 ---
 title: "Dialectic Lab"
-listing: default
+listing: 
+  contents: posts
+  type: default
+  categories: true
+  sort: "date"
+  date-format: long
 ---
 
-![](images/Brand-rmd.png)
+*Data essays and deep-dives into pertinent issues of Environment, Society, and Governance.*
 
-*`Data essays and deep-dives into pertinent issues ofEnvironment, Society, and Governance.`*
+### [Shop](https://dialectic.printify.me/products): Posters and Merchandise
 
-### Dialectic Poster Shop
+![](images/Store-01.png)
 
-![](images/clipboard-2113924575.png)
+### Essays

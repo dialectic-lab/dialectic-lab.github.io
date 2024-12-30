@@ -1,0 +1,34 @@
+---
+title: "Seasonal Rain in India"
+date: 2024-05-01
+format: 
+  html:
+    fig-width: 10
+    fig-height: 12
+---
+
+Indian Meteorological Department (IMD) provides historic data covering rainfall patterns across India from 1901 to 2017, representing over a century of meteorological history. The measurements, recorded in millimeters, span 36 different subdivisions across the Indian subcontinent.
+
+The data comes primarily from the Indian Meteorological Department, likely collected through a network of rain gauge stations, weather monitoring facilities, and in recent years, satellite data. The historical records from the early 1900s would have incorporated British colonial weather documentation. This comprehensive dataset proves invaluable for understanding climate patterns, planning agricultural seasons, managing water resources, developing infrastructure, and conducting climate change research. The long-term nature of the data makes it particularly useful for identifying trends and changes in India's rainfall patterns over time.
+
+This is a plot of annual rainfall data between the years 1901 and 2017. The darker bands indicate wetter regions. Values are in mm.
+
+Hover over the cells for more information. Blank spaces indicate data unavailability from source.
+
+```{r}
+#| echo: false
+#| warning: false
+library(ggplot2)
+library(plotly)
+data <- read.csv("rain_data.csv")
+p <- ggplot(data) + 
+  geom_tile(aes( y = YEAR,  x = SUBDIVISION, fill= ANNUAL ))+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) 
+ggplotly(p)
+```
+
+This visualization reveals fascinating geographical variations in rainfall patterns across India. The wettest regions are concentrated in the northeast and along the western coast, with Arunachal Pradesh receiving the highest average annual rainfall at 3532mm, followed by Coastal Karnataka at 3395mm. The Konkan & Goa region, Kerala, and the Andaman & Nicobar Islands all receive more than 2800mm of annual rainfall. In stark contrast, the western regions of India receive significantly less precipitation. West Rajasthan records the lowest average at 294mm, followed by Saurashtra & Kutch at 496mm, and the Haryana-Delhi-Chandigarh region at 528mm. These patterns form a clear rainfall gradient that increases from west to east across India. Coastal regions generally experience higher rainfall due to their proximity to moisture sources. The Western Ghats mountain range creates a remarkable rain shadow effect, resulting in significant differences between coastal and interior regions. The northeastern states of India consistently show high rainfall patterns throughout the year.
+
+![](images/02_Rain@4x-01.jpg)
+
+## References

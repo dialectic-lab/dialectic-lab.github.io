@@ -2,7 +2,14 @@ project:
   type: website
 
 website:
-  title: "dialectic-lab"
+  title: "Dialectic Lab"
+  favicon: Favicon.png
+  twitter-card: true
+  google-analytics: "G-Z01C9C6V6Q"
+  image: cover.png
+  search: 
+    location: navbar
+    type: overlay
   navbar:
     left:
       - href: index.qmd
