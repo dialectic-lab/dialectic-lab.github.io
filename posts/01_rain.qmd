@@ -18,6 +18,7 @@ Hover over the cells for more information. Blank spaces indicate data unavailabi
 ```{r}
 #| echo: false
 #| warning: false
+
 library(ggplot2)
 library(plotly)
 data <- read.csv("rain_data.csv")
