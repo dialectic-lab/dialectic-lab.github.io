@@ -26,10 +26,12 @@ jobs:
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 1
-          packages: |
-            any::ggplot2
-            any::plotly
-
+          
+      - name: Install packages
+        run: |
+          install.packages(c('ggplot2', 'plotly'))
+        shell: Rscript {0}
+          
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
