@@ -1,7 +1,6 @@
 ---
 title: "Dialectic Lab"
 listing: 
-  contents: posts
   type: default
   categories: true
   sort: "date"
