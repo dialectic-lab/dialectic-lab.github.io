@@ -361,14 +361,19 @@
     },
     "digest": {
       "Package": "digest",
-      "Version": "0.6.37",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Version": "0.6.37.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "eddelbuettel",
+      "RemoteRepo": "digest",
+      "RemoteRef": "master",
+      "RemoteSha": "009a4add52a1862251ca284b3d9241803f58519a",
       "Requirements": [
         "R",
         "utils"
       ],
-      "Hash": "33698c4b3127fc9f506654607fb73676"
+      "Hash": "80e7cc691ced20054842a09e48862423"
     },
     "dplyr": {
       "Package": "dplyr",
@@ -1164,13 +1169,18 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "1.0.11",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Version": "1.0.11.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "rstudio",
+      "RemoteRepo": "renv",
+      "RemoteRef": "main",
+      "RemoteSha": "c3c3de7b9ce4cefaeb56d3b77ecf5f70e1228e63",
       "Requirements": [
         "utils"
       ],
-      "Hash": "47623f66b4e80b3b0587bc5d7b309888"
+      "Hash": "937be5c07c7f5a74a6fdab1840786bcd"
     },
     "reprex": {
       "Package": "reprex",
