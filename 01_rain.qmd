@@ -33,4 +33,6 @@ This visualization reveals fascinating geographical variations in rainfall patte
 
 ![](images/02_Rain@4x-01.jpg)
 
-## References
+## Sources
+
+[India Meteorological Department](https://mausam.imd.gov.in/responsive/rainfallinformation_swd.php)
