@@ -1,0 +1,31 @@
+{
+    "id": "A2F0263C",
+    "path": "~/R Directory/dialectic-lab.github.io/01_rain.qmd",
+    "project_path": "01_rain.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1735746491619.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "17,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "1406:431"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1735764678,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735764678,
+    "read_only": false,
+    "read_only_alternatives": []
+}
