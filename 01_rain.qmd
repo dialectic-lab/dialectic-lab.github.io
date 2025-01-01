@@ -16,9 +16,10 @@ This is a plot of annual rainfall data between the years 1901 and 2017. The dark
 Hover over the cells for more information. Blank spaces indicate data unavailability from source.
 
 ```{r}
+#| label: Rain heatmap
 #| echo: false
 #| warning: false
-
+library(tidyverse)
 library(ggplot2)
 library(plotly)
 data <- read.csv("rain_data.csv")
